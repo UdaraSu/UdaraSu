@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw19ndaOMCRWcET10fjdZX6W&ust=1718917470317000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiNsdvI6IYDFQAAAAAdAAAAABAE" alt="Coding GIF" width="400" height="300" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" width="400" height="300" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udarasu&label=Profile%20views&color=0e75b6&style=flat" alt="udarasu" /> </p>
