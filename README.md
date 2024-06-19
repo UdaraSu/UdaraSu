@@ -7,11 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udarasu&label=Profile%20views&color=0e75b6&style=flat" alt="udarasu" /> </p>
 
+<div align="left">
+
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
   
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **udaraireshan@gmail.com**
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasu&layout=compact&theme=algolia" alt="udarasu" />
 </p>
