@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udarasu&label=Profile%20views&color=0e75b6&style=flat" alt="udarasu" /> </p>
 
-<div align="left">
-
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
+<div style="display: flex; flex-wrap: wrap;">
   
-- 💬 Ask me about **Programming**
+  - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
+  
+  - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **udaraireshan@gmail.com**
+  - 📫 How to reach me **udaraireshan@gmail.com**
 
 </div>
 
@@ -48,8 +48,4 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasu&layout=compact&theme=algolia" alt="udarasu" />
 </p>
