@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Udara Pathirage</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCUbRn2npk3j5wk/giphy.gif" alt="Coding GIF" width="400" height="300" />
+<p align="right">
+  <img src="https://images.app.goo.gl/jFPKA4JLveCrNfbV7" alt="Coding GIF" width="400" height="300" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udarasu&label=Profile%20views&color=0e75b6&style=flat" alt="udarasu" /> </p>
