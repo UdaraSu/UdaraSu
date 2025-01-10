@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Udara Pathirage</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-  <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" width="400" height="300" />
+  <img align="right" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" alt="Coding GIF" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udarasu&label=Profile%20views&color=0e75b6&style=flat" alt="udarasu" /> </p>
 
