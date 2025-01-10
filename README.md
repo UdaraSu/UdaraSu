@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="udaraireshan"  width="600" /> </p>
+<p align="center"> <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif" alt="udaraireshan"  width="900" /> </p>
 <h1 align="center">Hi 👋, I'm Udara Pathirage</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
@@ -55,8 +55,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasu&layout=compact&theme=algolia" alt="udarasu" />
-</p>
+ <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udarasu&show_icons=true&locale=en&layout=compact" alt="udarasu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udarasu&show_icons=true&locale=en" alt="udarasu" width="410" /></p>
 
 
