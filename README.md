@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="udaraireshan" /> </p>
 <h1 align="center">Hi 👋, I'm Udara Pathirage</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
@@ -12,7 +13,7 @@
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **udaraireshan@gmail.com**
-- 
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -53,3 +54,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasu&layout=compact&theme=algolia" alt="udarasu" />
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
