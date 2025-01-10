@@ -8,7 +8,11 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
+- 👩‍🎓 I am SLIIT Undergraduate
+
+- 💬 Ask me about Programming, Web Design and Tech Trends
+
+- 👨‍💻 My projects are available at [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
   
 - 💬 Ask me about **Programming**
 
@@ -55,10 +59,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasu&layout=compact&theme=algolia" alt="udarasu" />
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
