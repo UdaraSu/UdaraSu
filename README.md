@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="udaraireshan" /> </p>
+<p align="center"> <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="udaraireshan"  width="600" /> </p>
 <h1 align="center">Hi 👋, I'm Udara Pathirage</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
