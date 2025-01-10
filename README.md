@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udara Pathirage</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-<p align="right">
+<p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" width="400" height="300" />
 </p>
 
