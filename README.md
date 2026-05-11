@@ -8,15 +8,16 @@
 
 ---
 
-- 👩‍🎓 I am SLIIT Undergraduate
+-  👨‍🎓 Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)
 
-- 💬 Ask me about Programming, Web Design and Tech Trends
+-  💻 Passionate about Programming, AI Systems, Web Development and Emerging Tech Trends
 
-- 👨‍💻 My projects are available at [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
-  
-- 💬 Ask me about **Programming**
+-  🚀 Explore my projects and repositories here: [GitHub Repositories](https://github.com/UdaraSu?tab=repositories)
 
-- 📫 How to reach me **udaraireshan@gmail.com**
+-  🛠️ Skilled in Java, JavaScript, Python, React, MERN Stack, and Software Development
+
+-  📫 Reach me at: **[udaraireshan@gmail.com](mailto:udaraireshan@gmail.com)**
+
 
 ---
 
